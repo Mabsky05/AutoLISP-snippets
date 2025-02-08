@@ -12,6 +12,17 @@ Further commentary within each file.
 
 ## Log
 
+### 08/02/2024
+Status:
+layer_setup.lsp in progress
+print_window.lsp done
+print.lsp done, but a bit rough
+rectangle.lsp done
+rectangle_polar.lsp done
+rectangle.lsp done
+table.lsp TBD   
+
+
 ### 05/02/2024
 First batch upload.
 'printing.lsp' in progress.  
