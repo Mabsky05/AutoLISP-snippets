@@ -1,6 +1,9 @@
 ;create default layers (Architectural) 
+;TODO create colours for all layers
+;TODO create linetypes for all layers
+;TODO create matching CTB file (?)
 
-;Insert code here to delete all layers except 0 and DEFPOINT
+;TODO Insert code here to delete all layers except 0 and DEFPOINT, prior to creating layers
 (command "-layer"
 
 ;Enter an option

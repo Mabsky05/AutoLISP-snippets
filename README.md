@@ -14,13 +14,13 @@ Further commentary within each file.
 
 ### 08/02/2024
 Status:
-layer_setup.lsp in progress
-print_window.lsp done
-print.lsp done, but a bit rough
-rectangle.lsp done
-rectangle_polar.lsp done
-rectangle.lsp done
-table.lsp TBD   
+layer_setup.lsp in progress </br>
+print_window.lsp done </br>
+print.lsp done, but a bit rough </br>
+rectangle.lsp done </br>
+rectangle_polar.lsp done </br>
+rectangle.lsp done </br>
+table.lsp TBD </br>    
 
 
 ### 05/02/2024

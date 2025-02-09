@@ -1,9 +1,9 @@
 ;plot a window in modelspace and save to an A4 pdf on desktop
 
 
-;|Delete this line to load a function
+;|Delete this line to load as function
 (defun pcheck() 
-Delete this line to load a function|;
+Delete this line to load as function|;
 
 
 (command "-plot"
@@ -48,7 +48,7 @@ Delete this line to load a function|;
 ;PDF should be opened by default program
 )
 
-;|Delete this line to load a function
+;|Delete this line to load as function
 )
-Delete this line to load a function|;
+Delete this line to load as function|;
 

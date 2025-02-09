@@ -1,3 +1,6 @@
+;print in layout space using default settings
+;TODO complete print after save dialog
+
 (command "-plot"
 "y"
 "Layout1"
