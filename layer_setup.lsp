@@ -4,6 +4,8 @@
 ;TODO create matching CTB file (?)
 
 ;TODO Insert code here to delete all layers except 0 and DEFPOINT, prior to creating layers
+
+
 (command "-layer"
 
 ;Enter an option
@@ -36,3 +38,31 @@
 
 
 )
+;|
+Autocad Colour / Pen Width
+
+0.18mm – RED - 1
+doors and windows, railings
+
+0.25mm – YELLOW 2
+floor outline, jambs, furnitures
+
+0.35mm – GREEN 3
+roof, gutters
+
+0.35mm – CYAN 4 
+walls
+
+0.50mm – BLUE 5
+columns
+
+
+0.35mm – DARK GREY 8
+dims, grid, hatch
+
+1.00mm – MAGENTA 6
+2.00mm – LIGHT GREY 9
+1.40mm – BLACK 250
+
+
+|;

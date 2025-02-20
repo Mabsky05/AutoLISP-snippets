@@ -12,6 +12,17 @@ Further commentary within each file.
 
 ## Log
 
+### 20/02/2024
+Status:
+layer_setup.lsp in progress </br>
+print_window.lsp done </br>
+print.lsp done, can be improved</br>
+rectangle.lsp done </br>
+rectangle_polar.lsp done </br>
+rectangle.lsp done </br>
+table.lsp done, can be improved </br>    
+
+
 ### 08/02/2024
 Status:
 layer_setup.lsp in progress </br>
